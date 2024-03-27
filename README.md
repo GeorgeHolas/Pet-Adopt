@@ -42,6 +42,6 @@ This is a React app that allows users to:
 ```bash
  npm start
  ```
-- This will start the app at http://localhost:3000
+- This will start the app at localhost:3000
 
-- Or here https://adoptdogrouting.netlify.app/
+- Deployed by netlify https://adoptdogrouting.netlify.app/
